@@ -41,6 +41,6 @@ If you're building something cool, I'm probably already interested 🚀
 Role: Builder   | Goal: Impact  | Interest: Data | Mode: Learning + Building
 
 <div align="center">
-  <img src="ChatGPT Image May 2, 2026, 12_37_22 AM.png" alt="Featured Projects" />
+  <img src="ChatGPT Image May 2, 2026, 12_45_21 AM.png" alt="Featured Projects" />
 </div>
 > I’d rather build something imperfect than understand everything perfectly.
